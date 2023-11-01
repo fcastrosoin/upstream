@@ -4,3 +4,5 @@ Formulario
   -Contraseña
 Botón ingresar
 Botón recordar contraseña
+
+Pie de página
